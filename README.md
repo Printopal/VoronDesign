@@ -1,3 +1,4 @@
+![Magnetic_top_panel](https://user-images.githubusercontent.com/85416803/120905966-53f65000-c61b-11eb-8367-2481f096431a.jpg)
 # VoronDesign
 Magnetic top panel
 Overview
