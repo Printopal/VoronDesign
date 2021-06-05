@@ -2,6 +2,7 @@
 # Overview
 This top panel can be easily removed for printer maintenance or giving more cooling.
 3D models are designed to match your buildplate size. Feel free to ask different lengths.
+
 https://user-images.githubusercontent.com/85416803/120906040-da129680-c61b-11eb-813c-af05dc87f28a.mp4
 
 # BOM
