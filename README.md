@@ -1,4 +1,3 @@
-![Magnetic_top_panel](https://user-images.githubusercontent.com/85416803/120905966-53f65000-c61b-11eb-8367-2481f096431a.jpg)
 # VoronDesign
 Magnetic top panel
 Overview
@@ -31,3 +30,4 @@ Instructions
 5. Remove the panel from the frame, adjust foam length and glue it under the acrylic panel sheet (same side as panel corner).
 6. Glue top corner skirt on the acrylic panel sheet.
 7. Adjust top skirt length and glue on the acrylic panel sheet. You can easily adjust the length in your slicer.	
+![Magnetic_top_panel](https://user-images.githubusercontent.com/85416803/120905966-53f65000-c61b-11eb-8367-2481f096431a.jpg)
