@@ -1,11 +1,11 @@
-# VoronDesign
-Magnetic top panel
-Overview
+# Magnetic top panel
+
+# Overview
 This top panel can be easily removed for printer maintenance or giving more cooling.
 3D models are designed to match your buildplate size. Feel free to ask different lengths.
 
 
-BOM
+# BOM
 250: 400 x 400 x 3mm acrylic panel sheet
         4x 344mm of 6 x 11,7mm [1/2” x 1/4”] High density foam
 
@@ -22,7 +22,7 @@ No personal feedback on this stuff but acrylic sheet with abrasive resistance co
 I don’t recommend using glass plate because of its weight, this may result in broken top skirt and broken glass!
 
 
-Instructions
+# Instructions
 1. Insert magnets into panel corner and frame corner respecting their polarity.
 2. Insert frame corner on top of the 4 vertical 2020 extrusions.
 3. Put panel corner on frame corner, sides should be flush.
