@@ -29,5 +29,10 @@ Instructions
 4. Glue the acrylic panel sheet on panel corners, be sure to keep panel corner and frame. corner sides flush wile gluing the acrylic panel.
 5. Remove the panel from the frame, adjust foam length and glue it under the acrylic panel sheet (same side as panel corner).
 6. Glue top corner skirt on the acrylic panel sheet.
-7. Adjust top skirt length and glue on the acrylic panel sheet. You can easily adjust the length in your slicer.	
+7. Adjust top skirt length and glue on the acrylic panel sheet. You can easily adjust the length in your slicer.
+8. 
+
+https://user-images.githubusercontent.com/85416803/120906040-da129680-c61b-11eb-813c-af05dc87f28a.mp4
+
+	
 ![Magnetic_top_panel](https://user-images.githubusercontent.com/85416803/120905966-53f65000-c61b-11eb-8367-2481f096431a.jpg)
