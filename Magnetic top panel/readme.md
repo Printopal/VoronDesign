@@ -2,7 +2,7 @@
 # Overview
 This top panel can be easily removed for printer maintenance or giving more cooling.
 3D models are designed to match your buildplate size.
-Available sizes : 250/300/350 for V1.8 and V2.4.
+For versions 1.8 and 2.4 in 250, 300 and 350mm.
 
 https://user-images.githubusercontent.com/85416803/120906040-da129680-c61b-11eb-813c-af05dc87f28a.mp4
 
