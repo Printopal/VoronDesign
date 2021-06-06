@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/85416803/120906040-da129680-c61b-11eb-
 Core:
 8x Ø6 x 3mm neodymium magnet
 
-No personal feedback on this stuff but acrylic sheet with abrasive resistance coating can be considered for V1.8 the prevent micro scratch caused by the reverse bowden tube. This may also appear with full height prints on V2.4
+Acrylic sheet with abrasion resistant coating may be considered for V1.8 to prevent micro scratch caused by the reverse bowden tube. This may also appear with full height prints on V2.4.
 I don’t recommend using glass plate because of its weight, this may result in broken top skirt and broken glass!
 
 
