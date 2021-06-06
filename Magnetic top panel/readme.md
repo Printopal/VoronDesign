@@ -8,14 +8,17 @@ https://user-images.githubusercontent.com/85416803/120906040-da129680-c61b-11eb-
 
 # BOM
 250:
+
 400 x 400 x 3mm acrylic panel sheet
 4x 344mm of 6 x 11,7mm [1/2” x 1/4”] High density foam
 
 300:
+
 450 x 450 x 3mm acrylic panel sheet
 4x 394mm of 6 x 11,7mm [1/2” x 1/4”] High density foam
 
 350:
+
 500 x 500 x 3mm acrylic panel sheet
 4x 444mm of 6 x 11,7mm [1/2” x 1/4”] High density foam
 
