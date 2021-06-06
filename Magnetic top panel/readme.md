@@ -7,14 +7,17 @@ For versions 1.8 and 2.4 in 250, 300 and 350mm.
 https://user-images.githubusercontent.com/85416803/120906040-da129680-c61b-11eb-813c-af05dc87f28a.mp4
 
 # BOM
-250: 400 x 400 x 3mm acrylic panel sheet
-        4x 344mm of 6 x 11,7mm [1/2” x 1/4”] High density foam
+250:
+400 x 400 x 3mm acrylic panel sheet
+4x 344mm of 6 x 11,7mm [1/2” x 1/4”] High density foam
 
-300: 450 x 450 x 3mm acrylic panel sheet
-        4x 394mm of 6 x 11,7mm [1/2” x 1/4”] High density foam
+300:
+450 x 450 x 3mm acrylic panel sheet
+4x 394mm of 6 x 11,7mm [1/2” x 1/4”] High density foam
 
-350: 500 x 500 x 3mm acrylic panel sheet
-        4x 444mm of 6 x 11,7mm [1/2” x 1/4”] High density foam
+350:
+500 x 500 x 3mm acrylic panel sheet
+4x 444mm of 6 x 11,7mm [1/2” x 1/4”] High density foam
 
 Core:
 8x Ø6 x 3mm neodymium magnet
