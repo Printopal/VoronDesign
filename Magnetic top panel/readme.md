@@ -38,4 +38,5 @@ I don’t recommend using glass plate because of its weight, this may result in 
 #
 ![Frame_corner_chart_size](https://user-images.githubusercontent.com/85416803/120906058-f6163800-c61b-11eb-8197-42b68839e545.jpg)
 #
-![Magnet](https://user-images.githubusercontent.com/85416803/120906066-fb738280-c61b-11eb-82ce-0a0c3a60e3ae.jpg)
+![Magnet](https://user-images.githubusercontent.com/85416803/120909468-10134300-c63b-11eb-8585-1a1bfbda597f.jpg)
+
