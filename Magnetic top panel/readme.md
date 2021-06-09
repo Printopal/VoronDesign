@@ -28,18 +28,16 @@ I don’t recommend using glass plate because of its weight, this may result in 
 
 # Instructions
 1. Insert magnets into panel corner and frame corner respecting their polarity.
-2. Insert frame corner on top of the 4 vertical 2020 extrusions.
+2. Insert frame corner on top of the 4 vertical 2020 extrusions. They can be glued if they are too loose.
 3. Put panel corner on frame corner, sides should be flush.
 4. Glue the acrylic panel sheet on panel corners, be sure to keep panel corner and frame corner sides flush while gluing the acrylic panel.
 5. Remove the panel from the frame, adjust foam length and glue it under the acrylic panel sheet (same side as panel corner).
 6. Glue top corner skirt on the acrylic panel sheet.
-7. Adjust top skirt length and glue on the acrylic panel sheet. You can easily adjust the length in your slicer.
+7. Glue top skirt on the acrylic panel sheet.
 #
 ![Magnetic_top_panel](https://user-images.githubusercontent.com/85416803/120905966-53f65000-c61b-11eb-8367-2481f096431a.jpg)
 #
 ![Split](https://user-images.githubusercontent.com/85416803/120906056-f0b8ed80-c61b-11eb-85a5-56ec779e1308.jpg)
-#
-![Frame_corner_chart_size](https://user-images.githubusercontent.com/85416803/120906058-f6163800-c61b-11eb-8197-42b68839e545.jpg)
 #
 ![Magnet](https://user-images.githubusercontent.com/85416803/120909468-10134300-c63b-11eb-8585-1a1bfbda597f.jpg)
 
