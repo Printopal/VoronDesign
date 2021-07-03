@@ -39,5 +39,5 @@ I don’t recommend using glass plate because of its weight, this may result in 
 #
 ![Split](https://user-images.githubusercontent.com/85416803/120906056-f0b8ed80-c61b-11eb-85a5-56ec779e1308.jpg)
 #
-![Magnet](https://user-images.githubusercontent.com/85416803/120909468-10134300-c63b-11eb-8585-1a1bfbda597f.jpg)
+![Magnet](/Images/Magnet)
 
