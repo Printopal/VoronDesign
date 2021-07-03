@@ -35,9 +35,9 @@ I don’t recommend using glass plate because of its weight, this may result in 
 6. Glue top corner skirt on the acrylic panel sheet.
 7. Glue top skirt on the acrylic panel sheet.
 #
-![Magnetic_top_panel](https://user-images.githubusercontent.com/85416803/120905966-53f65000-c61b-11eb-8367-2481f096431a.jpg)
+![Magnetic_top_panel](Images/Magnetic_top_panel.jpg)
 #
-![Split](https://user-images.githubusercontent.com/85416803/120906056-f0b8ed80-c61b-11eb-85a5-56ec779e1308.jpg)
+![Split](Images/Split.jpg)
 #
-![Magnet](/Images/Magnet)
+![Magnet](Images/Magnet.jpg)
 
