@@ -20,3 +20,7 @@ The tension stroke is slightly reduced from 28mm to 25mm. This allow to get enou
 3. That is it! All that remain is in the stock assembly manual.
 
 ![AB_front_idler_assembly](Images/AB_front_idler_assembly.jpg)
+
+<p align="center">
+  <img src="http://Printopal/VoronDesign/Voron 1.8/Front idler AB.com/image.AB_front_idler_assembly.jpg" />
+</p>
