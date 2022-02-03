@@ -22,5 +22,5 @@ The tension stroke is slightly reduced from 28mm to 25mm. This allow to get enou
 ![AB_front_idler_assembly](Images/AB_front_idler_assembly.jpg)
 
 <p align="center">
-  <img src="http://Printopal/VoronDesign/Voron 1.8/Front idler AB.com/image.AB_front_idler_assembly.jpg" />
+  <img src="[AB_front_idler_assembly](Images/AB_front_idler_assembly.jpg" />
 </p>
