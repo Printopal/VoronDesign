@@ -17,5 +17,6 @@ The tension stroke is slightly reduced from 28mm to 25mm. This allow to get enou
 # INSTRUCTIONS
 1. Install heat set insert into the bottom A and B idler. Use and iron solder for this step.
 2. Screw the M3x25 SHCS on top of A and B idler.
+3. That is it! All that remain is the stock assembly manual.
 
 ![AB_front_idler_assembly](Images/AB_front_idler_assembly.jpg)
