@@ -6,7 +6,7 @@ A small change of the front idlers to remove the gap that may appear.
 
 # BOM
 2x SHCS M3X25  
-2x SHCS M3X35
+2x SHCS M3X35  
 2x M3 Threaded insert short (those are the same used in your stock Voron BOM)
 
 # DESCRIPTION
