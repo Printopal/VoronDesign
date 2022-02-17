@@ -17,7 +17,7 @@ It allow to open the front door at 155° MAX and the access to the locker bracke
 8x T-slot nut M3
 4x Sliding T-nut M3
 
-# Acrilic panels dimensions
+# PANELS DIMENSIONS
 ![Panels_size](Images/Panels_size.jpg)
 
 # INSTRUCTIONS
