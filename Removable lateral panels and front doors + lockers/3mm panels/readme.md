@@ -1,4 +1,4 @@
-# Removable Lateral panels and front doors + lockers 
+# Removable Lateral panels and front doors + lockers  
 # OVERVIEW
 This mod allow to get removable lateral and front panels. Side panels are maintained with lockers.  
 /!\ Read this before starting /!\  
