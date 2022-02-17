@@ -9,8 +9,8 @@ It allow to open the front door at 155° MAX and the access to the locker bracke
 ![Enclosure](Images/Enclosure.jpg)
 
 # DESCRIPTION
-![Description](Images/Description.jpg)
-![Components](Images/Components.jpg)
+![Description](Images/Description.jpg)  
+![Components](Images/Components.jpg)  
 Lateral body locker and back hinge parts need support to be printed.
 
 # BOM
