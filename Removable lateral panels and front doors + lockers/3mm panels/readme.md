@@ -6,6 +6,7 @@ This mod allow to get removable lateral and front panels. Side panels are mainta
 The version for 3mm thick panels was not tested, feel free to contact me if you have any doubt or recomendation.  
 It allow to open the front door at 155° MAX and the access to the locker bracket is very limited.  
 
+
 ![Enclosure](Images/Enclosure.jpg)
 
 # BOM
