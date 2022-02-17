@@ -1,6 +1,6 @@
 # Removable Lateral panels and front doors + lockers.
 # OVERVIEW
-This mod allow to get removable lateral panels and front panels. Side panels are maintained with lockers. Also, side panels and front doors are mounted on hinges and can simply be opened if their removing is not necessary.
+This mod allow to get removable lateral panels and front panels. Side panels are maintained with lockers. Also, side panels and front doors are mounted on hinges and can simply be opened if it is not necessary to remove them.
 
 /!\ Read this before starting /!\  
 The version for 3mm thick panels was not tested, feel free to contact me if you have any doubt or recommendation.  
