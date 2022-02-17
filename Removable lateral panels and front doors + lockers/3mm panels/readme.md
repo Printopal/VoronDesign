@@ -12,6 +12,8 @@ This version allow to open the front door at 155° MAX and the access to the loc
 8x SHCS M3x12  
 8x SHCS M3x10  
 16x SHCS M3x8  
+8x T-slot nut M3
+4x Sliding T-nut M3
 
 # INSTRUCTIONS
 ![Back Hinge Assembly 3mm](Images/Back_Hinge_Assembly_3mm.jpg)
