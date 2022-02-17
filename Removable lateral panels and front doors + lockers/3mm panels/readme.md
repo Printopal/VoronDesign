@@ -22,7 +22,7 @@ It allow to open the front door at 155° MAX and the access to the locker bracke
 # PANELS DIMENSIONS
 ![Panels_size](Images/Panels_size.jpg)
 
-Side panels and doors use the same cutout. units:mm
+Side panels and doors use the same cutout. units:mm  
 ![Panel_cut](Images/Panel_cut.jpg)
 
 # INSTRUCTIONS
