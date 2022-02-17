@@ -9,6 +9,7 @@ It allow to open the front door at 155° MAX and the access to the locker bracke
 ![Enclosure](Images/Enclosure.jpg)
 
 # DESCRIPTION
+![Description](Images/Description.jpg)
 
 # BOM
 8x SHCS M3x40 For V1 or 8x BHCS M3x45 for V2  
