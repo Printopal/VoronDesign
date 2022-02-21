@@ -30,5 +30,5 @@ Side panels and doors use the same cutout. units:mm
 
 
 ![Back Hinge Assembly 9mm](Images/Back_Hinge_Assembly_9mm.jpg)
-![Lateral_locker_Assembly_9mm](Images/Lateral_locker_Assembly_9mm.jpg)
+![Lateral_Locker_Assembly_9mm](Images/Lateral_locker_Assembly_9mm.jpg)
 ![Front_Hinge_Assembly_9mm](Images/Front_Hinge_Assembly_9mm.jpg)
