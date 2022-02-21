@@ -18,8 +18,10 @@ Lateral body locker and back hinge parts need support to be printed.
 8x SHCS M3x12  
 8x SHCS M3x10  
 16x SHCS M3x8  
-8x T-slot nut M3
-4x Sliding T-nut M3
+8x T-slot nut M3  
+4x Sliding T-nut M3  
+16x Ø1.4x10 metallic pin or cut nails  
+16x Ø1.4x20 metallic pin or cut nails  
 
 # PANELS DIMENSIONS
 ![Panels_size](Images/Panels_size.jpg)
