@@ -5,7 +5,12 @@ This mod allow to get removable lateral panels and front panels. Side panels are
 /!\ Read this before starting /!\  
 This version is used for 3mm thick panels + 6mm foam.
 
-![Enclosure_3_pos](Images/Enclosure_3_pos.jpg)
+Closed doors and panels  
+![Closed_1](Images/Closed_1.jpg)
+Open doors and panels  
+![Open_1](Images/Open_1.jpg)
+Doors and panels removed  
+![Removed_1](Images/Removed_1.jpg)
 ![Enclosure](Images/Enclosure.jpg)
 
 # DESCRIPTION
