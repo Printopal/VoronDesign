@@ -24,3 +24,5 @@ Doors and panels removed
 
 Side panels and doors use the same cutout. units:mm  
 ![Panel_cut](Images/Panel_cut.jpg)
+
+BOM and Assembly details are in each version folder.
