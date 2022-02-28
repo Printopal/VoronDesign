@@ -14,7 +14,7 @@ It allow to open the front door at 165° MAX and the access to the locker bracke
 Lateral body locker and back hinge parts need support to be printed.
 
 # BOM
-8x SHCS M3x40
+8x SHCS M3x40  
 8x SHCS M3x16  
 4x SHCS M3x12  
 16x SHCS M3x8  
