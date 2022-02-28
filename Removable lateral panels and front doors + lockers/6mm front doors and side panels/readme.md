@@ -3,7 +3,7 @@
 This mod allow to get removable lateral panels and front panels. Side panels are maintained with lockers. Also, side panels and front doors are mounted on hinges and can simply be opened if it is not necessary to remove them.
 
 /!\ Read this before starting /!\  
-This version is used for 3mm thick panels + 3mm foam for side panels and front doors.
+This version is used for 3mm thick panels + 3mm foam for side panels and front doors.  
 It allow to open the front door at 165° MAX and the access to the locker bracket is a bit limited.
 
 ![Enclosure](Images/Enclosure.jpg)
