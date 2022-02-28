@@ -4,4 +4,5 @@
 
 9mm version use 3mm acrilic panels + 6mm foam.
 
+
 Please contact me if you need a custom thickness version.  
