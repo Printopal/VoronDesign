@@ -16,6 +16,7 @@ Lateral body locker and back hinge parts need support to be printed.
 16x Ø1.4x10 metallic pin or cut nails  
 16x Ø1.4x20 metallic pin or cut nails  
 
+# ASSEMBLY
 ![Back Hinge Assembly 3mm](Images/Back_Hinge_Assembly_3mm.jpg)
 ![Lateral_locker_Assembly_3mm](Images/Lateral_locker_Assembly_3mm.jpg)
 ![Front_Hinge_Assembly_3mm](Images/Front_Hinge_Assembly_3mm.jpg)
