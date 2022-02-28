@@ -10,8 +10,6 @@ Please contact me if you need a custom thickness version.
 # OVERVIEW
 This mod allow to get removable lateral panels and front doors. Side panels are maintained with lockers while front doors are maintained with magnets. Also, side panels and front doors are mounted on hinges and can simply be opened if it is not necessary to remove them.
 
-/!\ Read this before starting /!\  
-
 Closed doors and panels  
 ![Closed_1](Images/Closed_1.jpg)  
 Open doors and panels  
