@@ -1,6 +1,6 @@
 # Removable Lateral panels and front doors + lockers.
 # OVERVIEW
-This mod allow to get removable lateral panels and front panels. Side panels are maintained with lockers. Also, side panels and front doors are mounted on hinges and can simply be opened if it is not necessary to remove them.
+This mod allow to get removable lateral panels and front doors. Side panels are maintained with lockers while front doors are maintained with magnets. Also, side panels and front doors are mounted on hinges and can simply be opened if it is not necessary to remove them.
 
 /!\ Read this before starting /!\  
 This version is used for 3mm thick panels + 6mm foam.  
@@ -28,6 +28,7 @@ Lateral body locker and back hinge parts need support to be printed.
 4x Sliding T-nut M3  
 16x Ø1.4x10 metallic pin or cut nails  
 16x Ø1.4x20 metallic pin or cut nails  
+4x Ø6x3mm neodymium magnet
 
 # PANELS DIMENSIONS
 ![Panels_size](Images/Panels_size.jpg)
