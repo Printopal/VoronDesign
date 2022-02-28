@@ -1,4 +1,4 @@
-3mm version use 3mm acrilic panelsflush to 2020 extrusion frame.  
+3mm version use 3mm acrilic panels flush to 2020 extrusion frame.  
 
 6mm version use 3mm acrilic panels + 3mm foam.
 
