@@ -1,4 +1,3 @@
-/!\ Read this before starting /!\  
 The version for 3mm thick panels was not tested, feel free to contact me if you have any doubt or recommendation.  
 It allow to open the front door at 155° MAX and the access to the locker bracket is very limited.  
 
