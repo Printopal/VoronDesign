@@ -20,7 +20,7 @@ Doors and panels removed
 Lateral body locker and back hinge parts need support to be printed.
 
 # BOM
-8x SHCS M3x40
+8x SHCS M3x40  
 8x BHCS M3x20  
 4x SHCS M3x12  
 16x SHCS M3x8  
