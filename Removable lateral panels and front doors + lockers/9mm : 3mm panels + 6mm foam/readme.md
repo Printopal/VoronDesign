@@ -4,6 +4,7 @@ This mod allow to get removable lateral panels and front panels. Side panels are
 
 /!\ Read this before starting /!\  
 This version is used for 3mm thick panels + 6mm foam.
+It allow to open the front door at 180°.
 
 Closed doors and panels  
 ![Closed_1](Images/Closed_1.jpg)  
