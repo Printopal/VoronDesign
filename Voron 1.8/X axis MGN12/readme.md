@@ -6,7 +6,7 @@ Finally, there is a dedicated channel for X endstop wires, the possiblity to use
 Carriage modifications are only compatible with ClockWork 1 extruder. Installation of StealthBurner body and Toolhead is perfectly OK.
 ![Overview](Images/Overview.jpg)
 
-XY joints modificacions
+XY joints modifications
 ![XY_joints](Images/XY_joints.jpg)
 
 X carriage
