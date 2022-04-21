@@ -14,8 +14,8 @@ X carriage
 
 # BOM
 2x Gates idler, toothed is preferable  
-4x M3x10 SHCS  
-2x M3x8 SHCS  
 1x M3x40 SHCS  
 1x M3x35 SHCS  
+4x M3x10 SHCS  
+2x M3x8 SHCS  
 1x MGN12 x 300 or 350mm (length match your own config) with MGN12H carriage  
