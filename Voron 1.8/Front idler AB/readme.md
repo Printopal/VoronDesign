@@ -11,7 +11,7 @@ Modificacion of the front idlers to remove the gap that may appear.
 
 # DESCRIPTION
 The tension stroke is slightly reduced from 28mm to 25mm. This allow to get enough wall thickness for the screw and insert.  
-/!\ Warning /!\ : If your belts were flush mounted to your X carriage, then you will have to replace them for longer ones.
+**:warning: Warning **:warning: : If your belts were flush mounted to your X carriage, then you will have to replace them for longer ones.
 
 ![AB_Front_idler_changes](Images/AB_Front_idler_changes.jpg)
 
