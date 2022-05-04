@@ -10,7 +10,7 @@ Modificacion of the front idlers to remove the gap that may appear.
 2x M3 Threaded insert short (those are the same used in the stock Voron BOM)
 
 # DESCRIPTION
-The tension stroke is slightly reduced from 28mm to 25mm. This allow to get enough wall thickness for the screw and insert.
+The tension stroke is slightly reduced from 28mm to 25mm. This allow to get enough wall thickness for the screw and insert.  
 /!\ Warning /!\ : If your belts were flush mounted to your X carriage, then you will have to replace them for longer ones.
 
 ![AB_Front_idler_changes](Images/AB_Front_idler_changes.jpg)
